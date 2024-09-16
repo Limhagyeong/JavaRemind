@@ -1,5 +1,6 @@
 package class1;
 
+import class1.Student;
 public class ClassStart2 {
 	
 	public static void main(String[] args) {
